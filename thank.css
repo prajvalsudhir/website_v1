@@ -1,0 +1,18 @@
+body{
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  text-align: center;
+  color:#bdc7c5 ;
+  background-color: #132743;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+h2{
+    color: #132743;
+    background-color: #f7be16;
+    padding-top: 15px;
+    border: 2px solid #f7be16;
+    border-bottom-width: 50px;
+}
